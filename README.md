@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am currently working on: 
 <a href="https://github.com/Toash/ClimbingApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
 
