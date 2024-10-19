@@ -13,19 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
-  <p> I am currently working on: </p>
+<div  align="center">
+  <p align="center"> I am currently working on: </p>
   
   <a href="https://github.com/Toash/ClimbingApp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
   </a>
 </div>
 
-
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-  <p>I am currently working on:</p>
-  <a href="https://github.com/Toash/ClimbingApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
-  </a>
-</div>
