@@ -20,4 +20,4 @@ I am currently working on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&layout=compact&theme=github_dark_dimmed&hide=C#)
