@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="left">
   <h1 > I am currently working on: </h1>
     
   <a href="https://github.com/Toash/ClimbingApp">
