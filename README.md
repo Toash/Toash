@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working on: 
+I am currently working on: \
 <a href="https://github.com/Toash/ClimbingApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&layout=compact&theme=github_dark_dimmed&&langs_count=20)
