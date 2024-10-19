@@ -21,4 +21,4 @@ I am currently working on: </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&size_weight=0.3&count_weight=0.7&theme=github_dark_dimmed&hide=HLSL,ShaderLab,GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&size_weight=0.3&count_weight=0.7&theme=github_dark_dimmed&hide=HLSL,ShaderLab,GLSL,C%23)
