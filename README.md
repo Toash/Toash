@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1> I am currently working on: </h1>
     
   <a href="https://github.com/Toash/ClimbingApp">
-    <img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
+    <img width=5000 src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
   </a>
 </div>
 
