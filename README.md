@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ## Hello 😄
 
-![](https://komarev.com/ghpvc/?username=Toash)
 
 
 
