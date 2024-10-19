@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 </a>
 
 
-
-<h1 align="right"> I am currently working on: </h1>
 <a href="https://github.com/Toash/ClimbingApp">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
