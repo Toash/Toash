@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div >
-  <h1 align="center"> I am currently working on: </h1>
+<div align="center">
+  <h1 > I am currently working on: </h1>
     
   <a href="https://github.com/Toash/ClimbingApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
