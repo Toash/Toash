@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="justify-content: center">
+<div style="text-align: center">
   <p> I am currently working on: </p>
   
   <a href="https://github.com/Toash/ClimbingApp">
