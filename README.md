@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div>
 <h1 align="left"> I am currently working on: </h1>
 <a href="https://github.com/Toash/ClimbingApp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
 
-
 <a href="https://github.com/Toash/ClimbingApp">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
+</div>
 
 
 :+1:
