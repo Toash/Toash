@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hello 😄
-<a href="https://github.com/Toash/ClimbingApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
-</a>
 
 
 
