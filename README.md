@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 I am currently working on: </br>
 
-<a href="https://github.com/Toash/ClimbingApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
+<a href="https://github.com/Toash/ClimbingAp">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Toash&repo=ClimbingApp&theme=github_dark_dimmed" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&hide=HLSL,ShaderLab,GLSL,Jupyter%20Notebook)
+<a href="https://github.com/Toash">
+  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Toash&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&hide=HLSL,ShaderLab,GLSL,Jupyter%20Notebook" />
+</a>
